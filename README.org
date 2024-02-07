@@ -2,9 +2,8 @@
 
 Common Lisp distributed computation framework implemented using Swank Client
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/brown/swank-crew.git   |
-| commit  | af5a786  |
-| systems | swank-crew |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------|
+| source  | git:https://github.com/brown/swank-crew.git |
+| commit  | 19c3447                                     |
+| systems | swank-crew                                  |
+|---------+---------------------------------------------|
